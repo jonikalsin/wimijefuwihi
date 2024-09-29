@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wimijefuwihi.netlify.app/sitemap.xml
